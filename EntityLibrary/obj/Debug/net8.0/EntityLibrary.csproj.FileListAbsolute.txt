@@ -1,0 +1,30 @@
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\bin\Debug\net8.0\EntityLibrary.deps.json
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\bin\Debug\net8.0\EntityLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\bin\Debug\net8.0\EntityLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\bin\Debug\net8.0\InterfaceLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\bin\Debug\net8.0\InterfaceLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\obj\Debug\net8.0\EntityLibrary.csproj.AssemblyReference.cache
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\obj\Debug\net8.0\EntityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\obj\Debug\net8.0\EntityLibrary.AssemblyInfoInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\obj\Debug\net8.0\EntityLibrary.AssemblyInfo.cs
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\obj\Debug\net8.0\EntityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\obj\Debug\net8.0\EntityLibrary.csproj.CopyComplete
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\obj\Debug\net8.0\EntityLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\obj\Debug\net8.0\refint\EntityLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\obj\Debug\net8.0\EntityLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\Entity Library\obj\Debug\net8.0\ref\EntityLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\obj\Debug\net8.0\EntityLibrary.csproj.AssemblyReference.cache
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\obj\Debug\net8.0\EntityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\obj\Debug\net8.0\EntityLibrary.AssemblyInfoInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\obj\Debug\net8.0\EntityLibrary.AssemblyInfo.cs
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\obj\Debug\net8.0\EntityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\bin\Debug\net8.0\EntityLibrary.deps.json
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\bin\Debug\net8.0\EntityLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\bin\Debug\net8.0\EntityLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\bin\Debug\net8.0\InterfaceLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\bin\Debug\net8.0\InterfaceLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\obj\Debug\net8.0\EntityLibrary.csproj.CopyComplete
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\obj\Debug\net8.0\EntityLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\obj\Debug\net8.0\refint\EntityLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\obj\Debug\net8.0\EntityLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\EntityLibrary\obj\Debug\net8.0\ref\EntityLibrary.dll

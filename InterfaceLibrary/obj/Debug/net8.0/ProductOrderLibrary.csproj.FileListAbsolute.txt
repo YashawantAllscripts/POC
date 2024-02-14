@@ -1,0 +1,11 @@
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\bin\Debug\net8.0\ProductOrderLibrary.deps.json
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\bin\Debug\net8.0\ProductOrderLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\bin\Debug\net8.0\ProductOrderLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\ProductOrderLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\ProductOrderLibrary.AssemblyInfoInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\ProductOrderLibrary.AssemblyInfo.cs
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\ProductOrderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\ProductOrderLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\refint\ProductOrderLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\ProductOrderLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\ref\ProductOrderLibrary.dll

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="EntityLibrary">
+      <HintPath>..\EntityLibrary\bin\Debug\net8.0\EntityLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="UtilitiesLibrary">
+      <HintPath>..\UtilitiesLibrary\bin\Debug\net8.0\UtilitiesLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

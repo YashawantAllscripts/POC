@@ -1,0 +1,17 @@
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\bin\Debug\net8.0\InterfaceLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\bin\Debug\net8.0\InterfaceLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\InterfaceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\InterfaceLibrary.AssemblyInfoInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\InterfaceLibrary.AssemblyInfo.cs
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\InterfaceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\InterfaceLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\refint\InterfaceLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\InterfaceLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\bin\Debug\net8.0\InterfaceLibrary.deps.json
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\ref\InterfaceLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\InterfaceLibrary.csproj.AssemblyReference.cache
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\obj\Debug\net8.0\InterfaceLibrary.csproj.CopyComplete
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\bin\Debug\net8.0\UtilitiesLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\bin\Debug\net8.0\UtilitiesLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\bin\Debug\net8.0\EntityLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\InterfaceLibrary\bin\Debug\net8.0\EntityLibrary.pdb
