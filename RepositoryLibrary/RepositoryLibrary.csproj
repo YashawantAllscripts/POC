@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Repository_Library</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.1" />
+  </ItemGroup>
+	<ItemGroup>
+		<Reference Include="EntityLibrary">
+		  <HintPath>..\EntityLibrary\bin\Debug\net8.0\EntityLibrary.dll</HintPath>
+		</Reference>
+		<Reference Include="InterfaceLibrary">
+		  <HintPath>..\InterfaceLibrary\bin\Debug\net8.0\InterfaceLibrary.dll</HintPath>
+		</Reference>
+		<Reference Include="ServicesLibrary">
+		  <HintPath>..\ServicesLibrary\bin\Debug\net8.0\ServicesLibrary.dll</HintPath>
+		</Reference>
+		<Reference Include="UtilitiesLibrary">
+		  <HintPath>..\UtilitiesLibrary\bin\Debug\net8.0\UtilitiesLibrary.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+</Project>

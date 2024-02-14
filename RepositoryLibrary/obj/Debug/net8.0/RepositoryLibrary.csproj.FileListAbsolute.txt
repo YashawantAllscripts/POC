@@ -1,0 +1,40 @@
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\obj\Debug\net8.0\RepositoryLibrary.csproj.AssemblyReference.cache
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\obj\Debug\net8.0\RepositoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\obj\Debug\net8.0\RepositoryLibrary.AssemblyInfoInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\obj\Debug\net8.0\RepositoryLibrary.AssemblyInfo.cs
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\obj\Debug\net8.0\RepositoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\bin\Debug\net8.0\RepositoryLibrary.deps.json
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\bin\Debug\net8.0\RepositoryLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\bin\Debug\net8.0\RepositoryLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\bin\Debug\net8.0\EntityLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\bin\Debug\net8.0\InterfaceLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\bin\Debug\net8.0\UtilitiesLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\bin\Debug\net8.0\EntityLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\bin\Debug\net8.0\InterfaceLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\bin\Debug\net8.0\UtilitiesLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\obj\Debug\net8.0\RepositoryLibrary.csproj.CopyComplete
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\obj\Debug\net8.0\RepositoryLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\obj\Debug\net8.0\refint\RepositoryLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\obj\Debug\net8.0\RepositoryLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\Repository Library\obj\Debug\net8.0\ref\RepositoryLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\obj\Debug\net8.0\RepositoryLibrary.csproj.AssemblyReference.cache
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\obj\Debug\net8.0\RepositoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\obj\Debug\net8.0\RepositoryLibrary.AssemblyInfoInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\obj\Debug\net8.0\RepositoryLibrary.AssemblyInfo.cs
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\obj\Debug\net8.0\RepositoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\bin\Debug\net8.0\RepositoryLibrary.deps.json
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\bin\Debug\net8.0\RepositoryLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\bin\Debug\net8.0\RepositoryLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\bin\Debug\net8.0\EntityLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\bin\Debug\net8.0\InterfaceLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\bin\Debug\net8.0\UtilitiesLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\bin\Debug\net8.0\EntityLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\bin\Debug\net8.0\InterfaceLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\bin\Debug\net8.0\UtilitiesLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\obj\Debug\net8.0\RepositoryLibrary.csproj.CopyComplete
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\obj\Debug\net8.0\RepositoryLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\obj\Debug\net8.0\refint\RepositoryLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\obj\Debug\net8.0\RepositoryLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\obj\Debug\net8.0\ref\RepositoryLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\bin\Debug\net8.0\ServicesLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\RepositoryLibrary\bin\Debug\net8.0\ServicesLibrary.pdb
