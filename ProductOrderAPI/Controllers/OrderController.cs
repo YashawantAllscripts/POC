@@ -87,6 +87,7 @@ namespace ProductOrderAPI.Controllers
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public IActionResult CreateNewOrder([FromBody] OrderDTO orderDTO) 
         {
+            IActionResult result;
             try
             {
                 if (orderDTO.ProductID <= 0 || orderDTO.Quantity <= 0)
@@ -96,22 +97,23 @@ namespace ProductOrderAPI.Controllers
                 else
                 {
                     _orderService.CreateNewOrder(orderDTO.ProductID, orderDTO.Date, orderDTO.Quantity);
-                    return Ok("New Order Created Successfully");
+                    result= Ok("New Order Created Successfully");
                 }
             }
             catch(ArgumentException ex)
             {
-                return StatusCode(StatusCodes.Status400BadRequest, ex.Message);
+                result= StatusCode(StatusCodes.Status400BadRequest, ex.Message);
             }
 
             catch (SqlException ex)
             {
-                return StatusCode(500, $"Internal server error: {ex.Message}");
+                result = StatusCode(500, $"Internal server error: {ex.Message}");
             }
             catch (Exception ex)
             {
-                return StatusCode(500, $"Internal server error: {ex.Message}");
+                result = StatusCode(500, $"Internal server error: {ex.Message}");
             }
+            return result;
         }
         /// <summary>
         /// Put Action for Update Order
@@ -124,6 +126,7 @@ namespace ProductOrderAPI.Controllers
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public IActionResult UpdateOrder([FromBody] UpdateOrderDTO orderDTO) 
         {
+            IActionResult result;
             try
             {
                 if (orderDTO.ID<=0 ||orderDTO.ProductID <= 0 || orderDTO.Quantity <= 0)
@@ -133,24 +136,24 @@ namespace ProductOrderAPI.Controllers
                 else
                 {
                     _orderService.UpdateOrder(orderDTO.ID,orderDTO.ProductID, orderDTO.Date, orderDTO.Quantity);
-                    return Ok("Order Details Updated Successfully");
+                    result= Ok("Order Details Updated Successfully");
                 }
             }
 
             catch (ArgumentException ex)
             {
-                return StatusCode(StatusCodes.Status400BadRequest, ex.Message);
+                result = StatusCode(StatusCodes.Status400BadRequest, ex.Message);
             }
 
             catch (SqlException ex)
             {
-                return StatusCode(500, $"Internal server error: {ex.Message}");
+                result = StatusCode(500, $"Internal server error: {ex.Message}");
             }
             catch (Exception ex)
             {
-                return StatusCode(500, $"Internal server error: {ex.Message}");
+                result = StatusCode(500, $"Internal server error: {ex.Message}");
             }
-
+           return result;
         }
         /// <summary>
         /// Delete Action for Delete Order
@@ -164,6 +167,7 @@ namespace ProductOrderAPI.Controllers
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public IActionResult DeleteOrder(int Id) 
         {
+            IActionResult result;
             try
             {
                 if (Id <= 0)
@@ -173,23 +177,24 @@ namespace ProductOrderAPI.Controllers
                 else
                 {
                     _orderService.DeleteOrder(Id);
-                    return Ok("Order Deleted Successfully");
+                    result= Ok("Order Deleted Successfully");
                 }
             }
             catch (ArgumentException ex)
             {
-                return StatusCode(StatusCodes.Status400BadRequest, ex.Message);
+                result = StatusCode(StatusCodes.Status400BadRequest, ex.Message);
             }
 
             catch (SqlException ex)
             {
-                return StatusCode(500, $"Internal server error: {ex.Message}");
+                result = StatusCode(500, $"Internal server error: {ex.Message}");
             }
 
             catch (Exception ex)
             {
-                return BadRequest(ex.Message);
+                result = BadRequest(ex.Message);
             }
+            return result;
         }
 
     }
