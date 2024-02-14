@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>false</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="EntityLibrary">
+      <HintPath>..\EntityLibrary\bin\Debug\net8.0\EntityLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="InterfaceLibrary">
+      <HintPath>..\RepositoryLibrary\bin\Debug\net8.0\InterfaceLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="RepositoryLibrary">
+      <HintPath>..\RepositoryLibrary\bin\Debug\net8.0\RepositoryLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="ServicesLibrary">
+      <HintPath>..\RepositoryLibrary\bin\Debug\net8.0\ServicesLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="UtilitiesLibrary">
+      <HintPath>..\UtilitiesLibrary\bin\Debug\net8.0\UtilitiesLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+
+</Project>
