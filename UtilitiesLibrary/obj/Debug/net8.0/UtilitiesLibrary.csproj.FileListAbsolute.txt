@@ -1,0 +1,24 @@
+C:\Users\Y952139.CORPORATE\source\repos\Utilities Library\obj\Debug\net8.0\UtilitiesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y952139.CORPORATE\source\repos\Utilities Library\obj\Debug\net8.0\UtilitiesLibrary.AssemblyInfoInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\Utilities Library\obj\Debug\net8.0\UtilitiesLibrary.AssemblyInfo.cs
+C:\Users\Y952139.CORPORATE\source\repos\Utilities Library\obj\Debug\net8.0\UtilitiesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\Utilities Library\bin\Debug\net8.0\UtilitiesLibrary.deps.json
+C:\Users\Y952139.CORPORATE\source\repos\Utilities Library\bin\Debug\net8.0\UtilitiesLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\Utilities Library\bin\Debug\net8.0\UtilitiesLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\Utilities Library\obj\Debug\net8.0\UtilitiesLibrary.csproj.AssemblyReference.cache
+C:\Users\Y952139.CORPORATE\source\repos\Utilities Library\obj\Debug\net8.0\UtilitiesLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\Utilities Library\obj\Debug\net8.0\refint\UtilitiesLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\Utilities Library\obj\Debug\net8.0\UtilitiesLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\Utilities Library\obj\Debug\net8.0\ref\UtilitiesLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\UtilitiesLibrary\bin\Debug\net8.0\UtilitiesLibrary.deps.json
+C:\Users\Y952139.CORPORATE\source\repos\UtilitiesLibrary\bin\Debug\net8.0\UtilitiesLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\UtilitiesLibrary\bin\Debug\net8.0\UtilitiesLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\UtilitiesLibrary\obj\Debug\net8.0\UtilitiesLibrary.csproj.AssemblyReference.cache
+C:\Users\Y952139.CORPORATE\source\repos\UtilitiesLibrary\obj\Debug\net8.0\UtilitiesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y952139.CORPORATE\source\repos\UtilitiesLibrary\obj\Debug\net8.0\UtilitiesLibrary.AssemblyInfoInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\UtilitiesLibrary\obj\Debug\net8.0\UtilitiesLibrary.AssemblyInfo.cs
+C:\Users\Y952139.CORPORATE\source\repos\UtilitiesLibrary\obj\Debug\net8.0\UtilitiesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Y952139.CORPORATE\source\repos\UtilitiesLibrary\obj\Debug\net8.0\UtilitiesLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\UtilitiesLibrary\obj\Debug\net8.0\refint\UtilitiesLibrary.dll
+C:\Users\Y952139.CORPORATE\source\repos\UtilitiesLibrary\obj\Debug\net8.0\UtilitiesLibrary.pdb
+C:\Users\Y952139.CORPORATE\source\repos\UtilitiesLibrary\obj\Debug\net8.0\ref\UtilitiesLibrary.dll
